@@ -4,7 +4,7 @@ let poses = [];
 let font;
 let fontsize = 20;
 let url = '128.122.151.172';           // the hub IP address
-let username = 'c3SJrXhFNuj3Hj-0c6Gin3xtZdmhuxQc7VH8R3uW';
+let username = 'c3SJrXhFNuj3Hj-0c6Gin3xtZdmhuxQc7VH8R3uw'; //<---
 let nose_pos = [];
 let nod_threshold = 20;
 let nose_num_threshold = 15;
